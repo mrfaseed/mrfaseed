@@ -1,12 +1,12 @@
-<h1 align="center">Yo 👋 I’m Faseed</h1>
+<h1 align="center">Yo  I’m Faseed</h1>
 
 <p align="center">
-  🚀 Hacker • Builder • Developer  
+    Learner • Builder • Developer  
 </p>
 
 ---
 
-### 🧠 About me
+###  About me
 - I build things, break things, then build them better  
 - Into web, systems, and anything that feels challenging  
 - Learning every day, shipping whenever possible  

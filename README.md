@@ -14,7 +14,7 @@
 ---
 
 ### ⚙️ Tech Stack
-![Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,flutter,android,js,python,linux,git)
+![Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,flutter,kotlin,js,python,linux,git)
 
 
 ---

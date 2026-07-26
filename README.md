@@ -56,61 +56,6 @@ Goal:
 
 ---
 
-# 🚀 Current Projects
-
-## 📱 NexusChat
-
-✔ Secure Authentication
-
-✔ Firebase Backend
-
-✔ Real-Time Messaging
-
-✔ WebRTC Calling
-
-✔ Modern UI
-
----
-
-## 🎬 Super YouTube (TamperMonkey)
-
-✔ Volume Booster
-
-✔ Screenshot Button
-
-✔ Sponsor Skip
-
-✔ Floating Transcript
-
-✔ Loop A→B
-
-✔ Keyboard Shortcuts
-
-✔ 10× Playback
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,flutter,dart,git,github,nodejs,react,mysql,vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mrfaseed&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfaseed&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -130,67 +75,9 @@ Goal:
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrfaseed&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mrfaseed/mrfaseed/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- 🚀 I love building Android apps.
-- 💡 I enjoy solving backend challenges.
-- 🔥 I like experimenting with browser automation.
-- 🎯 Passionate about clean architecture.
-
----
-
-# 💻 Terminal
-
-```bash
-> whoami
-
-Mohamed Faseed
-
-> role
-
-Android Developer
-
-> current_project
-
-NexusChat
-
-Super YouTube (TamperMonkey)
-
-> learning
-
-WebRTC
-Firebase Cloud Functions
-Android Security
-
-> status
-
-Coding...
-████████████████████ 100%
-```
-
----
 
 <div align="center">
 

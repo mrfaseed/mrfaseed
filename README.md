@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://banner-ochre-omega.vercel.app/api/header" width="100%" />
+<img src="https://banner-ochre-omega.vercel.app/api/heade" width="100%" />
 
 
 
